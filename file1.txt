@@ -1,3 +1,5 @@
+new edit after branching
+separate pulls, forced
 new line 2
 new line
 file1.txt
