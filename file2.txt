@@ -1,2 +1,3 @@
+new branch fix
 new line
 file1.txt
