@@ -1,3 +1,4 @@
+new branch fix
 new branch
 separate pulls, forced
 new line 2
