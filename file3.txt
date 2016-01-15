@@ -1,1 +1,2 @@
+new line
 file3.txt
